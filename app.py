@@ -8,5 +8,6 @@ def hello():
 # Added a login route simulation for Task 2 demonstration
 print("Login feature active")
 
+# Signup feature added
 if __name__ =="__main__":
     app.run(host="0.0.0.0",port=5000)
